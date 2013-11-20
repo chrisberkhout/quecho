@@ -42,6 +42,13 @@ Instead, I just put it all in a URL and send it off, like this:
         -d "To=%2B$to_number" \
         -d "Url=http://quecho.herokuapp.com/?$xml_encoded_x2"
 
+## Run it locally
+
+    git clone https://github.com/chrisberkhout/quecho.git
+    cd quecho
+    npm install
+    npm start
+
 ## Resources
 
 * [Getting Started with Node.js on Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs)
