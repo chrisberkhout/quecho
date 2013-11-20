@@ -46,7 +46,6 @@ Instead, I just put it all in a URL and send it off, like this:
 
     git clone https://github.com/chrisberkhout/quecho.git
     cd quecho
-    npm install
     npm start
 
 ## Resources
